@@ -1,4 +1,4 @@
-PROJ_NAME = Vaccine_Registration
+PROJ_NAME = Vaccine_Register
 SRC = Project_main.c\
 src/existreg.c\
 src/regist.c
